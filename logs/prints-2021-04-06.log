@@ -1,0 +1,7 @@
+14:18:14.656 [main] INFO  resources.base - User is navigated to Login Page
+14:18:20.854 [main] INFO  resources.base - User is navigated to Landing Page
+14:18:25.441 [main] INFO  resources.base - driver is initialized
+14:18:26.528 [main] INFO  resources.base - User is navigated to Login Page
+14:18:35.718 [main] INFO  resources.base - User is navigated to Landing Page
+14:18:47.273 [main] INFO  resources.base - driver is initialized
+14:19:05.708 [main] INFO  resources.base - User is on create user page.
